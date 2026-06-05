@@ -1,16 +1,14 @@
-## Hi there 👋
+# L1a6
 
-<!--
-**L1a6/L1a6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build thoughtful software: clean systems, sharp interfaces, and ideas that scale.
 
-Here are some ideas to get you started:
+### What I care about
+- **Clarity over noise**
+- **Strong fundamentals** (architecture, security, performance)
+- **Useful intelligence** over hype
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+Designing reliable tools that feel simple, fast, and human.
+
+---
+If it can be made clearer, faster, and smarter, I’m interested.
